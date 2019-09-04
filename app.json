@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#0094ff",
+    "navigationBarTitleText": "全局-首页",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh":true
+  },
+  "sitemapLocation": "sitemap.json"
+}
+

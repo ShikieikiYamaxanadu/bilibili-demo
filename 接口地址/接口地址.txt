@@ -1,0 +1,10 @@
+公共地址:https://easy-mock.com/mock/5c1dfd98e8bfa547414a5278/bili
+
+接口名称	接口路径 			备注
+首页导航    /navList    
+首页轮播图	/swiperList
+视频列表	/videosList
+视频详情	/videoDetail?id		需要带上视频的id
+推荐视频	/othersList?id		需要带上视频的id
+评论列表	/commentsList?id	需要带上视频的id
+	
